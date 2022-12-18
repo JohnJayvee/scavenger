@@ -1,7 +1,7 @@
 # Programming Tools Scavenger Hunt Workshop
 
 Set Up
-===
+=== 
 
 1. In your terminal, cd into the folder you want this project to be in
 
